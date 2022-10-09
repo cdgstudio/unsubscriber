@@ -21,7 +21,12 @@
     "lib": [
       "es2020",
       "dom"
-    ]
+    ],
+    "paths": {
+      "unsubscriber": [
+        "dist/unsubscriber"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "enableI18nLegacyMessageIdFormat": false,
