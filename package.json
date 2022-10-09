@@ -7,7 +7,8 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "build:unsubscriber": "ng build unsubscriber",
-    "test:unsubscriber": "ng test unsubscriber"
+    "test:unsubscriber": "ng test unsubscriber",
+    "release": "release-it"
   },
   "private": true,
   "dependencies": {
@@ -35,6 +36,7 @@
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.0.0",
     "ng-packagr": "^14.1.0",
+    "release-it": "^15.5.0",
     "typescript": "~4.7.2"
   }
 }
