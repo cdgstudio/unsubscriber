@@ -10,6 +10,13 @@
     "test:unsubscriber": "ng test unsubscriber",
     "release": "release-it"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cdgstudio/unsubscriber.git"
+  },
+  "homepage": "https://github.com/cdgstudio/unsubscriber#readme",
+  "bugs": "https://github.com/cdgstudio/unsubscriber/issues",
+  "license": "MIT",
   "private": false,
   "dependencies": {
     "@angular/animations": "^14.1.0",
