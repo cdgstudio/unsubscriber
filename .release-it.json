@@ -5,7 +5,7 @@
       "infile": "CHANGELOG.md"
     },
     "@release-it/bumper": {
-      "out": "dist/**/package.json"
+      "out": ["dist/**/package.json", "projects/**/package.json"]
     }
   },
   "hooks": {
