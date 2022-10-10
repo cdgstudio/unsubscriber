@@ -10,7 +10,7 @@
     "test:unsubscriber": "ng test unsubscriber",
     "release": "release-it"
   },
-  "private": true,
+  "private": false,
   "dependencies": {
     "@angular/animations": "^14.1.0",
     "@angular/common": "^14.1.0",
