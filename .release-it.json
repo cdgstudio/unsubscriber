@@ -17,6 +17,7 @@
     "release": true
   },
   "npm": {
-    "skipChecks": true
+    "skipChecks": true,
+    "publishPath": "dist/unsubscriber"
   }
 }
