@@ -1,5 +1,3 @@
+# 1.0.0 (2022-10-10)
 
-
-## 0.1.1 (2022-10-10)
-
-# Changelog
+Stable version of library
