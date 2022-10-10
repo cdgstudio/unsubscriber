@@ -4,13 +4,13 @@ Easy to use service to unsubscribe from RxJs observables.
 
 - Read more: https://codegen.studio/1297
 
-## Prepare
+## Instalation
 
 ```
 npm i @cdgstudio/unsubscriber
 ```
 
-## Example
+## Example of use
 
 ```ts
 @Component({
@@ -28,3 +28,13 @@ export class MyComponent implements OnInit {
   }
 }
 ```
+
+## Angular version support
+
+| Angular version | Support |
+| :-------------- | :------ |
+| 14              | Yes     |
+| 13              | Yes     |
+| 12              | Yes     |
+| 11              | No      |
+| ...             | No      |
