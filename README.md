@@ -33,8 +33,5 @@ export class MyComponent implements OnInit {
 
 | Angular version | Support |
 | :-------------- | :------ |
-| 14              | Yes     |
-| 13              | Yes     |
-| 12              | Yes     |
-| 11              | No      |
-| ...             | No      |
+| >=12            | Yes     |
+| <12             | No      |
